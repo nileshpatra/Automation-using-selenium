@@ -22,3 +22,6 @@ This reposirtory contains three python notebooks for web automation using seleni
   - filling the form 5 times , and each time, random number is selected from the list of entries
   - the radio buttons are ticked accordingly and then ticked
   - finally the google form is submitted
+  
+  Finally the responses are recoreded from the bot :
+  <img src = https://github.com/nileshpatra/Automation-using-selenium/blob/master/Screenshot_2019-01-04%20Event%20RSVP.png>
