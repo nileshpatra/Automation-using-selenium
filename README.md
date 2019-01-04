@@ -1,4 +1,6 @@
 # Automation-using-selenium
+[![Build Status](https://travis-ci.org/nileshpatra/Automation-using-selenium.svg?branch=master)](https://travis-ci.org/nileshpatra/Automation-using-selenium)
+
 This reposirtory contains three python notebooks for web automation using selenium.
 1. Whatsapp automation generator
   - selenium is imported , adn so is webdriver and keys
