@@ -18,6 +18,7 @@ This reposirtory contains three python notebooks for web automation using seleni
   
 3. google for filling using selenium :
   - created a dummy form
+  - form is available at : https://docs.google.com/forms/d/e/1FAIpQLSfwPaHQZv9Ft6s2uvbmEWGuqkA9h7dFns0Xgg0uKHGOF1Sc-  g/viewform?vc=0&c=0&w=1
   - passed xpath for the radio buttons and made an array
   - filling the form 5 times , and each time, random number is selected from the list of entries
   - the radio buttons are ticked accordingly and then ticked
