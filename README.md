@@ -1,0 +1,24 @@
+# Automation-using-selenium
+This reposirtory contains three python notebooks for web automation using selenium.
+1. Whatsapp automation generator
+  - selenium is imported , adn so is webdriver and keys
+  - firefox browser is opened using webdriver instance
+  - the driver object gets the website of whatsapp
+  - the xpath of search bar is then passed
+  - the required name is sent using ```send_keys()``` function
+  - then entered key is presses for the required name by using ```u'\ue007``` in ```send_keys()```
+  - the message instance is then created using the message box of the chat
+  - finally message is entered and looped over for a fixed number of times to send the message
+  
+2. Google search using selenium
+  - imported webdriver and https://www.google.com site is passed to it
+  - the site then opens up in firefox
+  - the xpath of search bar is passed , the message is sent using ```send_keys()``` function and enter key is pressed 
+    with ```u'\ue007```
+  
+3. google for filling using selenium :
+  - created a dummy form
+  - passed xpath for the radio buttons and made an array
+  - filling the form 5 times , and each time, random number is selected from the list of entries
+  - the radio buttons are ticked accordingly and then ticked
+  - finally the google form is submitted
