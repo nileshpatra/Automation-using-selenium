@@ -30,6 +30,7 @@ This reposirtory contains three python notebooks for web automation using seleni
   <img src = https://github.com/nileshpatra/Automation-using-selenium/blob/master/Screenshot_2019-01-04%20Event%20RSVP.png>
   
   4. facebook autologin:
+  
     - type the facebok username and password in the variables username and password
     - the webdriver gets ther xpath of username and password text boxes , it send the text tot those
     - the webdriver then clicks on login by getting the xpath
