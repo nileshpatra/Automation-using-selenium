@@ -36,4 +36,4 @@ This reposirtory contains three python notebooks for web automation using seleni
     - the webdriver then clicks on login by getting the xpath
     
   5. Stackoverflow search :
-    - type in the message to the ```message``` variable in  stack_overflow_search.py and run the python file to get       desired search results of message from stackoverflow
+    - type in the message to the ```message``` variable in  stack_overflow_search.py and run the python file to get       desired search results of message from stackoverflow.
